@@ -55,7 +55,6 @@ Desta forma, conhecer a distribuição dos restaurantes cadastrados nos países,
 ## **Conclusões**
 - A Índia e sua culinária seguem sendo as mais populares no conjunto de dados da plataforma.
 - Os restaurantes brasileiros cadastrados podem se beneficiar de incentivos para realizar melhorias
-- 
 
 ## **Próximos passos**
 - Atualizar o banco de dados
