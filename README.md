@@ -8,6 +8,7 @@ A Zomato é uma plataforma online de estreitamento das relações entre restaura
 Desta forma, conhecer a distribuição dos restaurantes cadastrados nos países, cidades e culinárias específicas em que atuam é primordial para o crescimento da plataforma.
 
 ## **Premissas da solução**
+- Marketplace foi o modelo de negócio assumido.
 - Os dados utilizados vieram da API da plataforma (https://developers.zomato.com/api/v2.1/search?entity_id=1&entity_type=city&start=1&count=20)
 - Os dados foram acessados a partir da plataforma Kaggle (https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset?resource=download&select=zomato.csv)
 - As quatro visões mais importantes são:
@@ -50,7 +51,7 @@ Desta forma, conhecer a distribuição dos restaurantes cadastrados nos países,
 - Seis das dez cidades com maior número de restaurantes estão na Índia
 - Três das sete cidades com avaliação abaixo de 2.5/5.0 estão no Brasil
 - A culinária do Norte Indiano é a mais bem representada no banco de dados, representando 24,1% das dez culinárias mais comuns
-- A culinária do Norte Indianao é também a com maior número de restaurantes que fazem delivery online, mantendo uma nota média de 4.04/5.0 ao redor do mundo
+- A culinária do Norte Indiano é também a que possui maior número de restaurantes que fazem delivery online, mantendo uma nota média de 4.04/5.0 ao redor do mundo
 
 ## **Conclusões**
 - A Índia e sua culinária seguem sendo as mais populares no conjunto de dados da plataforma.
