@@ -47,7 +47,7 @@ Desta forma, conhecer a distribuição dos restaurantes cadastrados nos países,
 ## **Principais insights**
 - Índia e EUA são os países com maior número de restaurantes e cidades cadastrados
 - Indonésia e Índia são os países com maior quantidade média de avaliações
-- À execessão do Brasil os 15 demais países tem notas médisa acima de 4.0/5.0 pontos
+- À excessão do Brasil os 15 demais países tem notas médisa acima de 4.0/5.0 pontos
 - Seis das dez cidades com maior número de restaurantes estão na Índia
 - Três das sete cidades com avaliação abaixo de 2.5/5.0 estão no Brasil
 - A culinária do Norte Indiano é a mais bem representada no banco de dados, representando 24,1% das dez culinárias mais comuns
