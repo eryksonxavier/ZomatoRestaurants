@@ -1,5 +1,5 @@
 # Análise de dados para a Zomato Restaurants
-Projeto do Curso de Ciência de Dados - by *Comunidade Data Science*
+Projeto de Análise de Dados
 <br>
 Veja o WebApp [aqui](https://zomatorestaurants-erykson.streamlit.app/)
 ---
